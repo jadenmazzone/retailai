@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/retailai/static/css/main.fc5535f1.chunk.css",
+    "main.js": "/retailai/static/js/main.4f725fb0.chunk.js",
+    "main.js.map": "/retailai/static/js/main.4f725fb0.chunk.js.map",
+    "runtime-main.js": "/retailai/static/js/runtime-main.17188902.js",
+    "runtime-main.js.map": "/retailai/static/js/runtime-main.17188902.js.map",
+    "static/js/2.dd95909e.chunk.js": "/retailai/static/js/2.dd95909e.chunk.js",
+    "static/js/2.dd95909e.chunk.js.map": "/retailai/static/js/2.dd95909e.chunk.js.map",
+    "index.html": "/retailai/index.html",
+    "precache-manifest.60fa56f739e6ca6e80caaf999c68f4d6.js": "/retailai/precache-manifest.60fa56f739e6ca6e80caaf999c68f4d6.js",
+    "service-worker.js": "/retailai/service-worker.js",
+    "static/css/main.fc5535f1.chunk.css.map": "/retailai/static/css/main.fc5535f1.chunk.css.map",
+    "static/js/2.dd95909e.chunk.js.LICENSE.txt": "/retailai/static/js/2.dd95909e.chunk.js.LICENSE.txt",
+    "static/media/campaign-revenue.png": "/retailai/static/media/campaign-revenue.f94c54d8.png",
+    "static/media/pictureOfMe.jpg": "/retailai/static/media/pictureOfMe.b8e2baf6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17188902.js",
+    "static/js/2.dd95909e.chunk.js",
+    "static/css/main.fc5535f1.chunk.css",
+    "static/js/main.4f725fb0.chunk.js"
+  ]
+}
