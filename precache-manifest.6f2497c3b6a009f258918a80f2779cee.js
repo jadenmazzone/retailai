@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41d7e6942246c27b27373f2f1f5699de",
+    "revision": "484a4b66aeaf8be999679c997f85b1f2",
     "url": "/retailai/index.html"
   },
   {
-    "revision": "95be05433aed22708366",
-    "url": "/retailai/static/css/main.fc5535f1.chunk.css"
+    "revision": "67f1f0fc03930b9747a3",
+    "url": "/retailai/static/css/main.c268fe7f.chunk.css"
   },
   {
-    "revision": "6512f1a1ad7b81178dc5",
-    "url": "/retailai/static/js/2.dd95909e.chunk.js"
+    "revision": "e32257859ff88a5a3ac1",
+    "url": "/retailai/static/js/2.c9041e0e.chunk.js"
   },
   {
     "revision": "1cee6415d6a23ee9df20d6d1b452ff0b",
-    "url": "/retailai/static/js/2.dd95909e.chunk.js.LICENSE.txt"
+    "url": "/retailai/static/js/2.c9041e0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95be05433aed22708366",
-    "url": "/retailai/static/js/main.4f725fb0.chunk.js"
+    "revision": "67f1f0fc03930b9747a3",
+    "url": "/retailai/static/js/main.769a47d8.chunk.js"
   },
   {
     "revision": "88557fdb71cc6d7312b8",
