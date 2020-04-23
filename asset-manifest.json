@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/retailai/static/css/main.c268fe7f.chunk.css",
-    "main.js": "/retailai/static/js/main.769a47d8.chunk.js",
-    "main.js.map": "/retailai/static/js/main.769a47d8.chunk.js.map",
+    "main.js": "/retailai/static/js/main.5ad57b46.chunk.js",
+    "main.js.map": "/retailai/static/js/main.5ad57b46.chunk.js.map",
     "runtime-main.js": "/retailai/static/js/runtime-main.17188902.js",
     "runtime-main.js.map": "/retailai/static/js/runtime-main.17188902.js.map",
     "static/js/2.c9041e0e.chunk.js": "/retailai/static/js/2.c9041e0e.chunk.js",
     "static/js/2.c9041e0e.chunk.js.map": "/retailai/static/js/2.c9041e0e.chunk.js.map",
     "index.html": "/retailai/index.html",
-    "precache-manifest.6f2497c3b6a009f258918a80f2779cee.js": "/retailai/precache-manifest.6f2497c3b6a009f258918a80f2779cee.js",
+    "precache-manifest.9a7e2d08c37cd2576b5d49f3a1781aa9.js": "/retailai/precache-manifest.9a7e2d08c37cd2576b5d49f3a1781aa9.js",
     "service-worker.js": "/retailai/service-worker.js",
     "static/css/main.c268fe7f.chunk.css.map": "/retailai/static/css/main.c268fe7f.chunk.css.map",
     "static/js/2.c9041e0e.chunk.js.LICENSE.txt": "/retailai/static/js/2.c9041e0e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.17188902.js",
     "static/js/2.c9041e0e.chunk.js",
     "static/css/main.c268fe7f.chunk.css",
-    "static/js/main.769a47d8.chunk.js"
+    "static/js/main.5ad57b46.chunk.js"
   ]
 }

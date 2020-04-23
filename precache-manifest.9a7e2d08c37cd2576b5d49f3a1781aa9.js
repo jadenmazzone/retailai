@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "484a4b66aeaf8be999679c997f85b1f2",
+    "revision": "f9d609163592b6646ac9008b9d362b78",
     "url": "/retailai/index.html"
   },
   {
-    "revision": "67f1f0fc03930b9747a3",
+    "revision": "4c93f951710eb0b0712f",
     "url": "/retailai/static/css/main.c268fe7f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retailai/static/js/2.c9041e0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67f1f0fc03930b9747a3",
-    "url": "/retailai/static/js/main.769a47d8.chunk.js"
+    "revision": "4c93f951710eb0b0712f",
+    "url": "/retailai/static/js/main.5ad57b46.chunk.js"
   },
   {
     "revision": "88557fdb71cc6d7312b8",
