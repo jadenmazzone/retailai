@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9d609163592b6646ac9008b9d362b78",
+    "revision": "032e6058149feaebc51e440750223556",
     "url": "/retailai/index.html"
   },
   {
-    "revision": "4c93f951710eb0b0712f",
+    "revision": "c052850e1566728e8932",
     "url": "/retailai/static/css/main.c268fe7f.chunk.css"
   },
   {
-    "revision": "e32257859ff88a5a3ac1",
-    "url": "/retailai/static/js/2.c9041e0e.chunk.js"
+    "revision": "97bce0fc0039c91efacf",
+    "url": "/retailai/static/js/2.4b2e4b99.chunk.js"
   },
   {
     "revision": "1cee6415d6a23ee9df20d6d1b452ff0b",
-    "url": "/retailai/static/js/2.c9041e0e.chunk.js.LICENSE.txt"
+    "url": "/retailai/static/js/2.4b2e4b99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c93f951710eb0b0712f",
-    "url": "/retailai/static/js/main.5ad57b46.chunk.js"
+    "revision": "c052850e1566728e8932",
+    "url": "/retailai/static/js/main.67c233ac.chunk.js"
   },
   {
     "revision": "88557fdb71cc6d7312b8",

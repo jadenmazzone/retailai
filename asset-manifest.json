@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/retailai/static/css/main.c268fe7f.chunk.css",
-    "main.js": "/retailai/static/js/main.5ad57b46.chunk.js",
-    "main.js.map": "/retailai/static/js/main.5ad57b46.chunk.js.map",
+    "main.js": "/retailai/static/js/main.67c233ac.chunk.js",
+    "main.js.map": "/retailai/static/js/main.67c233ac.chunk.js.map",
     "runtime-main.js": "/retailai/static/js/runtime-main.17188902.js",
     "runtime-main.js.map": "/retailai/static/js/runtime-main.17188902.js.map",
-    "static/js/2.c9041e0e.chunk.js": "/retailai/static/js/2.c9041e0e.chunk.js",
-    "static/js/2.c9041e0e.chunk.js.map": "/retailai/static/js/2.c9041e0e.chunk.js.map",
+    "static/js/2.4b2e4b99.chunk.js": "/retailai/static/js/2.4b2e4b99.chunk.js",
+    "static/js/2.4b2e4b99.chunk.js.map": "/retailai/static/js/2.4b2e4b99.chunk.js.map",
     "index.html": "/retailai/index.html",
-    "precache-manifest.9a7e2d08c37cd2576b5d49f3a1781aa9.js": "/retailai/precache-manifest.9a7e2d08c37cd2576b5d49f3a1781aa9.js",
+    "precache-manifest.44ea47f717f3b74560d39a3b3ca36a24.js": "/retailai/precache-manifest.44ea47f717f3b74560d39a3b3ca36a24.js",
     "service-worker.js": "/retailai/service-worker.js",
     "static/css/main.c268fe7f.chunk.css.map": "/retailai/static/css/main.c268fe7f.chunk.css.map",
-    "static/js/2.c9041e0e.chunk.js.LICENSE.txt": "/retailai/static/js/2.c9041e0e.chunk.js.LICENSE.txt",
+    "static/js/2.4b2e4b99.chunk.js.LICENSE.txt": "/retailai/static/js/2.4b2e4b99.chunk.js.LICENSE.txt",
     "static/media/campaign-revenue.png": "/retailai/static/media/campaign-revenue.f94c54d8.png",
     "static/media/pictureOfMe.jpg": "/retailai/static/media/pictureOfMe.b8e2baf6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.17188902.js",
-    "static/js/2.c9041e0e.chunk.js",
+    "static/js/2.4b2e4b99.chunk.js",
     "static/css/main.c268fe7f.chunk.css",
-    "static/js/main.5ad57b46.chunk.js"
+    "static/js/main.67c233ac.chunk.js"
   ]
 }
