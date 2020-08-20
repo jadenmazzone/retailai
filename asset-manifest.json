@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/retailai/static/css/main.c268fe7f.chunk.css",
-    "main.js": "/retailai/static/js/main.67c233ac.chunk.js",
-    "main.js.map": "/retailai/static/js/main.67c233ac.chunk.js.map",
-    "runtime-main.js": "/retailai/static/js/runtime-main.17188902.js",
-    "runtime-main.js.map": "/retailai/static/js/runtime-main.17188902.js.map",
-    "static/js/2.4b2e4b99.chunk.js": "/retailai/static/js/2.4b2e4b99.chunk.js",
-    "static/js/2.4b2e4b99.chunk.js.map": "/retailai/static/js/2.4b2e4b99.chunk.js.map",
-    "index.html": "/retailai/index.html",
-    "precache-manifest.44ea47f717f3b74560d39a3b3ca36a24.js": "/retailai/precache-manifest.44ea47f717f3b74560d39a3b3ca36a24.js",
-    "service-worker.js": "/retailai/service-worker.js",
-    "static/css/main.c268fe7f.chunk.css.map": "/retailai/static/css/main.c268fe7f.chunk.css.map",
-    "static/js/2.4b2e4b99.chunk.js.LICENSE.txt": "/retailai/static/js/2.4b2e4b99.chunk.js.LICENSE.txt",
-    "static/media/campaign-revenue.png": "/retailai/static/media/campaign-revenue.f94c54d8.png",
-    "static/media/pictureOfMe.jpg": "/retailai/static/media/pictureOfMe.b8e2baf6.jpg"
+    "main.css": "./static/css/main.c268fe7f.chunk.css",
+    "main.js": "./static/js/main.07fa738c.chunk.js",
+    "main.js.map": "./static/js/main.07fa738c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d3cfee8d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d3cfee8d.js.map",
+    "static/js/2.b69e371f.chunk.js": "./static/js/2.b69e371f.chunk.js",
+    "static/js/2.b69e371f.chunk.js.map": "./static/js/2.b69e371f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b88a32d43abbcf18e72fc6d1b4b3820a.js": "./precache-manifest.b88a32d43abbcf18e72fc6d1b4b3820a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.c268fe7f.chunk.css.map": "./static/css/main.c268fe7f.chunk.css.map",
+    "static/js/2.b69e371f.chunk.js.LICENSE.txt": "./static/js/2.b69e371f.chunk.js.LICENSE.txt",
+    "static/media/campaign-revenue.png": "./static/media/campaign-revenue.f94c54d8.png",
+    "static/media/pictureOfMe.jpg": "./static/media/pictureOfMe.b8e2baf6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17188902.js",
-    "static/js/2.4b2e4b99.chunk.js",
+    "static/js/runtime-main.d3cfee8d.js",
+    "static/js/2.b69e371f.chunk.js",
     "static/css/main.c268fe7f.chunk.css",
-    "static/js/main.67c233ac.chunk.js"
+    "static/js/main.07fa738c.chunk.js"
   ]
 }
